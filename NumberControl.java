@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 /**
  * 
  * This class contains the dynamically allocated array and it's processing
- * Student Name: Jo Suh
+ * Name: Jo Suh
  *
  */
 public class NumberControl {
